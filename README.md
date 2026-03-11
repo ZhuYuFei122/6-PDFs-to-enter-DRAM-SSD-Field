@@ -1,5 +1,4 @@
 # 6-PDFs-to-enter-DRAM-SSD-Field
-《深入浅出DDR》、《INTEL UEFI BIOS MRC源代码分析》、《AMD UEFI BIOS AGESA源代码分析》
 《深入浅出DDR》、
 《INTEL UEFI BIOS MRC源代码分析》、
 《AMD UEFI BIOS AGESA源代码分析》、
