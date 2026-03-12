@@ -5,6 +5,7 @@
 《UEFI BIOS&APP编程开发查询手册》、
 《SSD FTL固件算法设计与代码实现》、
 《基于爱德万机台的DRAM内存颗粒的ATE测试与编程》
+<img width="1410" height="342" alt="image" src="https://github.com/user-attachments/assets/b014ab07-7643-4f96-97df-936944403304" />
 
 底层硬件开发者必看：朱宇飞老师 6 本硬核技术电子书，从 DDR 到 BIOS 全链路吃透存储与固件🔥
 作为深耕底层硬件、存储与 BIOS 领域的开发者，你是否也曾在这些问题上卡壳：
